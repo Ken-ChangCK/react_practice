@@ -26,6 +26,8 @@ function App() {
           todos
         </button>
         {/* {resource} */}
+        {/* {resource} */}
+
       </div>
       <ResourceList resource1={resource} />
     </div>
